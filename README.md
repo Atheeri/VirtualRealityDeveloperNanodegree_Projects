@@ -1,0 +1,2 @@
+# AtheerAlbarqi_VirtualRealityDeveloperNanodegree_Projects
+In this nanodegree we study the latest tools and technologies in the exciting field of VR! Learn from industry experts like Google, Unity, and HTC, and immerse yourself in Virtual Reality. Focus on the fundamentals of using the Unity Game Engine to build beautiful and performant VR scenes, and learn how to make your VR experience more dynamic and responsive by using C# programming in the Unity interface.
